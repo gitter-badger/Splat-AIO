@@ -1,3 +1,3 @@
-Since I, Deck of Noobs is now in charge of the Python Splat-AIO, I'll be making the changes from now on.
+Since I, Deck of Noobs am now in charge of the Python Splat-AIO, I'll be making the changes from now on.
 -Re-added Music Randomizer
 -Re-Writing
