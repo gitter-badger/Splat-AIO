@@ -2,4 +2,4 @@ Since I, Deck of Noobs am now in charge of the Python Splat-AIO, I'll be making 
 SplatTim (aka MCMiners9) is co-owner.
 -Re-added Music Randomizer
 -Re-Writing
--Coming soon: EDITABLE DojoHax!
+-Added a placeholder for Editable DojoHax (coming soon!)
