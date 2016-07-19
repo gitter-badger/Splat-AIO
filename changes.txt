@@ -1,4 +1,3 @@
-More Deck of Noobs edits:
--Added a tool that lets you edit Battle Dojo gear, credit to the original creator (forgot his name)
--Added Brawlbox, which is compatible with most splatoon file types in tools.
--Removed Music Randomizer at the original creator's request.
+Since I, Deck of Noobs is now in charge of the Python Splat-AIO, I'll be making the changes from now on.
+-Re-added Music Randomizer
+-Re-Writing
